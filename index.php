@@ -1,2 +1,2 @@
 <?php
-echo "hello, dev1";
+echo "hello, master & dev1";
